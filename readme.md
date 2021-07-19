@@ -8,20 +8,20 @@ I hope it helps just a bit.
 
 ## Table of Contents
 
-*   [OpenDirectories](#opendirectories)
-    *   [Table of Contents](#table-of-contents)
-    *   [Search tools](#search-tools)
-        *   [General](#general)
-        *   [Music](#music)
-        *   [Subreddits](#subreddits)
-    *   [Various FTP Indexes](#various-ftp-indexes)
-        *   [General](#general-1)
-    *   [Software](#software)
-        *   [Tools](#tools)
-        *   [Standalone Programs](#standalone-programs)
-    *   [Notices](#notices)
-        *   [Contribution](#contribution)
-        *   [Thanks](#thanks)
+-   [OpenDirectories](#opendirectories)
+    -   [Table of Contents](#table-of-contents)
+    -   [Search tools](#search-tools)
+        -   [General](#general)
+        -   [Music](#music)
+        -   [Subreddits](#subreddits)
+    -   [Various FTP Indexes](#various-ftp-indexes)
+        -   [General](#general-1)
+    -   [Software](#software)
+        -   [Tools](#tools)
+        -   [Standalone Programs](#standalone-programs)
+    -   [Notices](#notices)
+        -   [Contribution](#contribution)
+        -   [Thanks](#thanks)
 
 ## Search tools
 
