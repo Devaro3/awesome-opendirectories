@@ -1,4 +1,4 @@
-## OpenDirectories
+# OpenDirectories
 
 Let me start off by saying that this repository is in **no way** connected with [r/opendirectories](https://www.reddit.com/r/opendirectories), as the title may mislead.  
 I haven't been able to find an [awesome list](https://github.com/sindresorhus/awesome) of websites for data hoarders, so I decided to make one - you're looking at it.  
