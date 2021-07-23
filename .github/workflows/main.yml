@@ -11,8 +11,3 @@ jobs:
 
       - name: Link Check 🔎
         uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
-
-      - name: markdownlint-cli
-        uses: nosborn/github-action-markdown-cli@v2.0.0
-        with:
-          files: .
