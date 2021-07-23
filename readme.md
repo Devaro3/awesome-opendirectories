@@ -13,7 +13,6 @@ I hope it helps just a bit.
         - [General](#general)
         - [Music](#music)
         - [Subreddits](#subreddits)
-        - [Archive](#archive-sites)
     - [Various FTP Indexes](#various-ftp-indexes)
         - [General](#general-1)
     - [Software](#software)
