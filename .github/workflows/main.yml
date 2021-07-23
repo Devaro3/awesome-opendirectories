@@ -1,0 +1,18 @@
+name: Check Links
+
+on: push
+
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Link Check 🔎
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
+
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v2.0.0
+        with:
+          files: .
