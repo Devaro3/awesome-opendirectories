@@ -9,11 +9,11 @@ I hope it helps just a bit.
 ## Table of Contents
 
 - [OpenDirectories](#opendirectories)
-    - [Table of Contents](#table-of-contents)
     - [Search tools](#search-tools)
         - [General](#general)
         - [Music](#music)
         - [Subreddits](#subreddits)
+        - [Archive](#archive-sites)
     - [Various FTP Indexes](#various-ftp-indexes)
         - [General](#general-1)
     - [Software](#software)
@@ -28,6 +28,8 @@ I hope it helps just a bit.
 ### General
 
 [https://archive.org/](https://archive.org/)
+
+[https://the-eye.eu/](https://the-eye.eu/)
 
 [https://eyedex.org/](https://eyedex.org/)
 
@@ -52,6 +54,10 @@ I hope it helps just a bit.
 [https://www.catfiles.net/](https://www.catfiles.net/)
 
 [http://www.filesearching.com/](http://www.filesearching.com/)
+
+[https://open-directory-downloader.herokuapp.com/](https://open-directory-downloader.herokuapp.com/)
+
+[https://www.filechef.com/](https://www.filechef.com/)
 
 ### Music
 
@@ -81,11 +87,17 @@ I hope it helps just a bit.
 
 [https://www.reddit.com/r/wget/](https://www.reddit.com/r/wget/)
 
+
+
 ### Various FTP Indexes
 
 ### General
 
 [https://www.mmnt.net/](https://www.mmnt.net/)
+
+[https://www.searchftps.net/](https://www.searchftps.net/)
+
+[https://search-22.com/ftp-search-tools](https://search-22.com/ftp-search-tools)
 
 ## Software
 
