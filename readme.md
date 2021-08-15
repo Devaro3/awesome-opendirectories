@@ -9,18 +9,19 @@ I hope it helps just a bit.
 ## Table of Contents
 
 - [OpenDirectories](#opendirectories)
-    - [Search tools](#search-tools)
-        - [General](#general)
-        - [Music](#music)
-        - [Subreddits](#subreddits)
-    - [Various FTP Indexes](#various-ftp-indexes)
-        - [General](#general-1)
-    - [Software](#software)
-        - [Tools](#tools)
-        - [Standalone Programs](#standalone-programs)
-    - [Notices](#notices)
-        - [Contribution](#contribution)
-        - [Thanks](#thanks)
+  - [Table of Contents](#table-of-contents)
+  - [Search tools](#search-tools)
+    - [General](#general)
+    - [Music](#music)
+    - [Subreddits](#subreddits)
+    - [Reddit posts](#reddit-posts)
+    - [General](#general-1)
+  - [Software](#software)
+    - [Tools](#tools)
+    - [Standalone Programs](#standalone-programs)
+  - [Notices](#notices)
+      - [Contribution](#contribution)
+      - [Thanks](#thanks)
 
 ## Search tools
 
@@ -86,9 +87,10 @@ I hope it helps just a bit.
 
 [https://www.reddit.com/r/wget/](https://www.reddit.com/r/wget/)
 
+### Reddit posts
 
+[various resources](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
 
-### Various FTP Indexes
 
 ### General
 
@@ -105,6 +107,9 @@ I hope it helps just a bit.
 [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader/) - indexes 100+ formats of Open Directories
 
 [wget](https://www.gnu.org/software/wget/) - free software package for retrieving files using HTTP, HTTPS, FTP and FTPS
+
+[wget wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - suggests the command you could run to download the files with Wget on your computer or server
+
 
 ### Standalone Programs
 
