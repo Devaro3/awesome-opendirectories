@@ -115,11 +115,11 @@ I hope it helps just a bit.
 
 Explore open directories for reconnaissance and OSINT (Open Source Intelligence) purposes:
 
-[Hunt.io Glossary: How to Find Open Directories](https://hunt.io/glossary/how-to-find-open-directories)
+[How to Find Open Directories](https://hunt.io/glossary/how-to-find-open-directories)
 
-[Hunt.io Blog: Hunting & Collecting Malware via Open Directories](https://hunt.io/blog/hunting-and-collecting-malware-via-open-directories-part-1)
+[Hunting & Collecting Malware via Open Directories](https://hunt.io/blog/hunting-and-collecting-malware-via-open-directories-part-1)
 
-[Hunt.io Blog: How Open Directories Provide Insight into XWorm Delivery Strategies](https://hunt.io/blog/uncovering-threat-actor-tactics-xworm-delivery-strategies)
+[How Open Directories Provide Insight into XWorm Delivery Strategies](https://hunt.io/blog/uncovering-threat-actor-tactics-xworm-delivery-strategies)
 
 
 ### Standalone Programs
