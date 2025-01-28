@@ -100,6 +100,7 @@ I hope it helps just a bit.
 
 [https://search-22.com/ftp-search-tools](https://search-22.com/ftp-search-tools)
 
+
 ## Software
 
 ### Tools
@@ -109,6 +110,16 @@ I hope it helps just a bit.
 [wget](https://www.gnu.org/software/wget/) - free software package for retrieving files using HTTP, HTTPS, FTP and FTPS
 
 [wget wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - suggests the command you could run to download the files with Wget on your computer or server
+
+## Recon and OSINT Resources
+
+Explore open directories for reconnaissance and OSINT (Open Source Intelligence) purposes:
+
+[How to Find Open Directories](https://hunt.io/glossary/how-to-find-open-directories)
+
+[Hunting & Collecting Malware via Open Directories](https://hunt.io/blog/hunting-and-collecting-malware-via-open-directories-part-1)
+
+[How Open Directories Provide Insight into XWorm Delivery Strategies](https://hunt.io/blog/uncovering-threat-actor-tactics-xworm-delivery-strategies)
 
 
 ### Standalone Programs
